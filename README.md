@@ -4,9 +4,7 @@
 
 import random    # Importing Random Module
 
-# Defining Function For Guessing Number
-
-def guess():
+def guess():     # Defining Function For Guessing Number
     print("*****  Number Guessing Game  *****\n")
     print("1.User Have 6 Chances\n2.Please Enter Number Only\n3.Choose Number From 1 To 50\n")
     
